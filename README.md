@@ -28,5 +28,3 @@
 - 📧 Email : [cedric_om10@yahoo.fr](mailto:cedric_om10@yahoo.fr)
 - 🖥️ Portfolio : [Mon site perso](https://cch-portfolio.netlify.app/home)
 
-## 📊 GitHub Stats
-![Cédric's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cedric-chimot&show_icons=true)
