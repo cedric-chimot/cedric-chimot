@@ -20,7 +20,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ## 📌 Mes Projets
-- [**Projet Pokémon**](https://github.com/cedric-chimot/projet-pokemon) : Application Pokémon avec un backend en Java JEE/Spring et un frontend Angular.
+- [**Projet Pokémon**](https://github.com/cedric-chimot/pokemon-angular) : Application Pokémon avec un backend en Java JEE/Spring et un frontend Angular.
 - [**Greenride**](https://github.com/cedric-chimot/greenride) : Site de covoiturage avec React et Symfony.
 - [**Village-green**](https://github.com/cedric-chimot/Village-green) : Projet fil-rouge formation développeur web avec PHP.
 
