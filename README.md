@@ -21,6 +21,7 @@
 
 ## 📌 Mes Projets
 - [**Projet Pokémon**](https://github.com/cedric-chimot/pokemon-angular) : Application Pokémon avec un backend en Java JEE/Spring et un frontend Angular.
+- [**Projet Allo-Movie**](https://github.com/cedric-chimot/allo-movie-back) : Application façon Allociné de découverte et recherche de films.
 - [**Greenride**](https://github.com/cedric-chimot/greenride) : Site de covoiturage avec React et Symfony.
 - [**Village-green**](https://github.com/cedric-chimot/Village-green) : Projet fil-rouge formation développeur web avec PHP.
 
