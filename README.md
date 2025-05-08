@@ -17,7 +17,6 @@
 ![Java JEE](https://img.shields.io/badge/Java%20JEE-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ## 📌 Mes Projets
 - [**Projet Pokémon**](https://github.com/cedric-chimot/pokemon-angular) : Application Pokémon avec un backend en Java JEE/Spring et un frontend Angular.
