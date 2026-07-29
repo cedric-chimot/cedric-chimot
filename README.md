@@ -20,13 +20,14 @@
 
 ## 📌 Mes Projets
 - [**Projet Pokémon**](https://github.com/cedric-chimot/pokemon-angular) : Application Pokémon avec un backend en Java JEE/Spring et un frontend Angular.
-- [**Projet Allo-Movie**](https://github.com/cedric-chimot/allo-movie-front) : Application façon Allociné de découverte et recherche de films avec un backend en Java JEE/Spring et un frontend Angular.
+- [**Projet Allo-Movie**](https://github.com/cedric-chimot/allo-movie-front) : Application façon Allo-ciné de découverte et recherche de films avec un backend en Java JEE/Spring et un frontend Angular.
 - [**Greenride**](https://github.com/cedric-chimot/greenride) : Site de covoiturage avec React et Symfony.
 - [**Village-green**](https://github.com/cedric-chimot/Village-green) : Projet fil-rouge formation développeur web avec PHP.
 
 ## 📫 Me Contacter
 - 📧 Email : [cedric_om10@yahoo.fr](mailto:cedric_om10@yahoo.fr)
 - 🖥️ Portfolio : [Mon site perso](https://cch-portfolio.netlify.app/home)
+
 
 ## 📊 GitHub Stats
 ![Cédric's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cedric-chimot&show_icons=true)
