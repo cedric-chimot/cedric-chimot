@@ -1,6 +1,6 @@
 # Bonjour, je suis Cédric Chimot 👋
 
-<p align="justify">En reconversion professionnelle, je suis à la recherche d’une alternance en tant que <strong>Concepteur Développeur d’Applications</strong> à compter d'<strong>octobre 2025</strong>. Ma rigueur et ma capacité d’analyse, acquises lors de mes expériences précédentes, me sont aujourd’hui précieuses dans la réalisation de projets.</p>
+<p align="justify">En reconversion professionnelle, je suis à la recherche d’une alternance en tant que <strong>Concepteur Développeur d’Applications Écoconception</strong> à compter d'<strong>octobre 2026</strong>. Ma rigueur et ma capacité d’analyse, acquises lors de mes expériences précédentes, me sont aujourd’hui précieuses dans la réalisation de projets.</p>
 
 ## 🔧 Compétences
 
