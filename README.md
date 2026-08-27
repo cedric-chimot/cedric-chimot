@@ -2,6 +2,7 @@
 
 <p align="justify">En reconversion professionnelle, je suis à la recherche d’une alternance en tant que <strong>Concepteur Développeur d’Applications Écoconception</strong> à compter d'<strong>octobre 2026</strong>. Ma rigueur et ma capacité d’analyse, acquises lors de mes expériences précédentes, me sont aujourd’hui précieuses dans la réalisation de projets.</p>
 
+
 ## 🔧 Compétences
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -18,11 +19,13 @@
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
+
 ## 📌 Mes Projets
 - [**Projet Pokémon**](https://github.com/cedric-chimot/pokemon-angular) : Application Pokémon avec un backend en Java JEE/Spring et un frontend Angular.
 - [**Projet Allo-Movie**](https://github.com/cedric-chimot/allo-movie-front) : Application façon Allo-ciné de découverte et recherche de films avec un backend en Java JEE/Spring et un frontend Angular.
 - [**Greenride**](https://github.com/cedric-chimot/greenride) : Site de covoiturage avec React et Symfony.
 - [**Village-green**](https://github.com/cedric-chimot/Village-green) : Projet fil-rouge formation développeur web avec PHP.
+
 
 ## 📫 Me Contacter
 - 📧 Mail : [cedric_om10@yahoo.fr](mailto:cedric_om10@yahoo.fr)
