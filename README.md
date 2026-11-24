@@ -1,7 +1,6 @@
 # Bonjour, je suis Cédric Chimot 👋
 
-<p align="justify">En reconversion professionnelle, je suis à la recherche d’une alternance en tant que <strong>Concepteur Développeur d’Applications Écoconception</strong> à compter de <strong>mars 2027</strong>. Ma rigueur et ma capacité d’analyse, acquises lors de mes expériences précédentes, me sont aujourd’hui précieuses dans la réalisation de projets.</p>
-
+<p align="justify">En reconversion professionnelle dans le développement d'applications, je maîtrise l'écosystème Java/Spring et le Framework Angular. Je recherche une alternance de <strong>18 mois</strong> pour intégrer la formation <strong>Concepteur Développeur d'Applications</strong> (Simplon). <strong>Rythme : 3 semaines en entreprise / 1 semaine en formation. Disponible immédiatement.</strong></p>
 
 ## 🔧 Compétences
 
